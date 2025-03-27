@@ -1,4 +1,4 @@
-for I in {1..40};
+for I in {1..20};
 do
 echo $I 
 done
